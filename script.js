@@ -718,7 +718,8 @@ const translations = {
       ".differential-list article:nth-child(4) p":
         "La formación VR, la alfabetización en IA, los registros digitales y los asistentes de IA se tratan como problemas de adopción, no solo como desarrollos de software.",
       ".engagement-section .section-kicker": "Ruta de trabajo",
-      "#engagement-title": "Del problema clínico al flujo desplegado.",
+      "#engagement-title":
+        "Desde el reto clínico hasta el flujo de trabajo mejorado.",
       ".engagement-steps li:nth-child(1) span": "Evaluar",
       ".engagement-steps li:nth-child(1) p":
         "Mapear el caso clínico, nivel de riesgo, usuarios, fuentes de datos y medidas de éxito.",
@@ -733,15 +734,16 @@ const translations = {
         "Medir adopción, refinar contenido y apoyar la línea de servicio clínica o educativa.",
       ".physician-section .section-kicker": "Servicios de medicina general",
       "#physician-title":
-        "Servicios de atención que mantienen la tecnología aterrizada.",
+        "Atención que aprovecha lo mejor de la tecnología en el día a día.",
       ".physician-panel p:nth-child(1)":
         "La atención médica general apoya la misma misión: orientación clara, plan práctico de seguimiento, promoción y prevención, y remisión responsable cuando se requiere atención especializada. Para proyectos tecnológicos, la revisión de usabilidad clínica significa probar si el producto, contenido o flujo se ajusta a necesidades reales de pacientes y prestadores.",
       ".physician-panel .disclaimer":
         "La atención de emergencias no se presta por medio de este sitio web. Use los servicios locales de emergencia ante síntomas urgentes.",
       ".contact-section .section-kicker": "Contacto",
-      "#contact-title": "Traiga un flujo de salud y diseñaremos el piloto.",
+      "#contact-title":
+        "Compártenos tu flujo de trabajo y diseñaremos estrategias para optimizarlo.",
       ".contact-copy p:nth-of-type(2)":
-        "Use una de estas rutas de contacto para orientar claramente la conversación clínica, educativa, técnica o de integración empresarial.",
+        "Use una de estas rutas de contacto para orientar de manera específica la conversación clínica, educativa, técnica o de integración empresarial.",
       ".contact-card:nth-child(1) > span": "Hospitales y clínicas",
       ".contact-card:nth-child(1) strong":
         "Solicitud de integración hospitalaria",
